@@ -1,7 +1,7 @@
 :3
 
 - how to compile 
-gcc xell.c -o xell -lpthread
+  - gcc xell.c -o xell -lpthread
 
 - Operations: 
   - execute current directory located programs and PATH programs
